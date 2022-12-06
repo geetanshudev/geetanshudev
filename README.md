@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geetanshudev
 - 👀 I’m interested in coding , data structure and other computer science stuff.
-- 🌱 I’m currently learning programming language , architect 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning programming language , database management system and other topics  
+- 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me ghosthuntetrspost4@gmail.com
 
 <!---
