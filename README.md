@@ -6,8 +6,8 @@
 - 👀 I’m interested in coding , data structure and other computer science stuff.
 - currently i'm in a learning phase.
 - 🌱 I’m currently learning programming language , database management system and other topics  
-- 💞️ I’m looking to collaborate on simple projects.
 
+<hr>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Language" width="40" height="40"> &nbsp;
