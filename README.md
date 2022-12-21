@@ -11,7 +11,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Language" width="40" height="40"> &nbsp;
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="C" alt="gcc" width="40" height="40"> &nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML 5 " alt="html5" width="40" height="40"> &nbsp;
 </div>
 - 📫 How to reach me ghosthuntetrspost4@gmail.com
 
