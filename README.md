@@ -17,6 +17,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> &nbsp;
      
 </div>
+<hr>
+
 - 📫 How to reach me ghosthuntetrspost4@gmail.com
 
 <!---
