@@ -1,5 +1,5 @@
 - <div id="header" align="center">
-    <img src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv" width="150"/>
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/>
   </div>
 - 
 - 👋 Hi, I’m @geetanshudev
