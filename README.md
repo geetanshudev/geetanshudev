@@ -14,7 +14,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="C" alt="gcc" width="40" height="40"> &nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML 5 " alt="html5" width="40" height="40"> &nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40">  &nbsp;
-     
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> &nbsp;
     
      
