@@ -20,8 +20,8 @@
 <hr>
 
 - 📫 How to reach me ghosthuntetrspost4@gmail.com
-- <hr>
-- My Stats:
+<hr>
+My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=@geetanshudev&theme=dark&background=000000)](https://git.io/streak-stats)
 <hr>
