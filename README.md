@@ -1,11 +1,15 @@
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 -<div id="header" align="center">
     <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="150">
   </div>
-- :man_technologist: About me 
-- 👋 I’m Geetanshu Dev Meshram
-- 👀 I’m interested in coding , data structure and other computer science stuff.
-- :classical_building: Pursuing B.Tech(hons.) in Data Science  
--  :man_student:learning programming language , database management system and other topics . 
+- :man_technologist: About me <br>
+- 👋 I’m Geetanshu Dev Meshram<br>
+- 👀 I’m interested in coding , data structure and other computer science stuff.<br>
+- :classical_building: Pursuing B.Tech(hons.) in Data Science  <br>
+-  :man_student:learning programming language , database management system and other topics . <br>
 
 <hr>
 :hammer_and_wrench: Languages and Tools :
