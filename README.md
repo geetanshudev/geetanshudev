@@ -1,9 +1,4 @@
-- <h1 align = "center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div id="header" align="center">
+-<div id="header" align="center">
     <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="150">
   </div>
 - :man_technologist: About me 
