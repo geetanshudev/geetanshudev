@@ -20,7 +20,7 @@
 </div>
 <hr>
 
-- 📫 How to reach me ghosthuntetrspost4@gmail.com
+
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GeetanshuDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetanshu-dev-meshram-2b3b61240)
 <hr>
 My Stats:
