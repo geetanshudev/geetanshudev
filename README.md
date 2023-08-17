@@ -40,6 +40,8 @@
 
 :mailbox:How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-GeetanshuDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetanshu-dev-meshram-2b3b61240)
+<br>
+<a href = "mailto: ghosthunterspost4@gmail.com">Send Email</a>
 <hr>
 My Stats:
 
