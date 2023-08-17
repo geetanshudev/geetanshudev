@@ -28,9 +28,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title ="MongoDB" alt="MongoDB" width="40" height="40"> &nbsp;
 </div>
 <hr>
+<p style = "color:blue;" >Some of my small project links :- </p>
+<ol>
+  <li>Digital Clock --> https://clock-js-html.netlify.app/</li>
+  <li>Simple Calculator --> https://gdmcalc.netlify.app/</li>
+  <li>Password Guess Game --> https://guesspassword-game.netlify.app/</li>
+</ol>
+
+<hr>
 
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GeetanshuDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetanshu-dev-meshram-2b3b61240)
+:mailbox:How to reach me: <br>
+[![Linkedin Badge](https://img.shields.io/badge/-GeetanshuDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetanshu-dev-meshram-2b3b61240)
 <hr>
 My Stats:
 
