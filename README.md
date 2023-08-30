@@ -25,7 +25,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title ="javascript" alt="Javascript" width="40" height="40"> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title ="React.js" alt="React.js" width="40" height="40"> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title ="MongoDB" alt="MongoDB" width="40" height="40"> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title ="Node Js" alt="Node.js" width="40" height="40"> &nbsp;
 </div>
 <hr>
 <p style = "color:blue;" >Some of my small project links :- </p>
