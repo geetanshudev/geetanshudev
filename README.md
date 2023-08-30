@@ -18,7 +18,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Language" width="40" height="40"> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="C" alt="gcc" width="40" height="40"> &nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML 5 " alt="html5" width="40" height="40"> &nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40">  &nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS 3" alt="CSS 3" width="40" height="40"> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstarp" alt="Bootstrap" width="40" height="40"> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40">  &nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" title="php" alt="php" width="40" height="40"> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"> &nbsp;
