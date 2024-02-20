@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently I'm working on internship<br>Learning about DSA, Data Science, Flask 
+University Student<br>
+Currently I'm working on internship<br>Learning about DSA, Data Science, Flask <br> 
 
 
 # 💻 Tech Stack:
@@ -9,8 +10,6 @@ Currently I'm working on internship<br>Learning about DSA, Data Science, Flask
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geetanshudev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=geetanshudev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
