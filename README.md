@@ -13,7 +13,7 @@ Currently I'm working on internship<br>Learning about DSA, Data Science, Flask <
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> <br>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=geetanshudev&icon=0&color=0)](https://visitcount.itsvg.in)
