@@ -11,8 +11,7 @@ Currently I'm working on internship<br>Learning about DSA, Data Science, Flask <
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> <br>
+
 
 
 ---
